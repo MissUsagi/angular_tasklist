@@ -28,7 +28,13 @@
       "id": 5,
       "text": "Food Shopping",
       "day": "May 7th at 12:30pm",
-      "reminder": false
+      "reminder": true
+    },
+    {
+      "text": "New test task",
+      "day": "22-03-2023",
+      "reminder": false,
+      "id": 7
     }
   ]
 }
